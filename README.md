@@ -1,13 +1,13 @@
 ## Hi there 👋, meet Amos
 I am a Javascript developer who is really passionate of its technologies
 
-Skills: REACT / JS / HTML / CSS
+Skills: Nim / Lua / HTML / CSS
 
-- 🔭 I’m currently working on Wasify 
-- 🌱 I’m currently learning React Native 
-- 📫 How to reach me: mogaka.amo254@gmail.com 
+- 🔭 I’m currently working on ZombieGame
+- 🌱 I’m currently learning GDScript
+- 📫 How to reach me: itzderkz(in discord)
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love art. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mogakamo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mogaka_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mogaka_dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m_ogakadev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mogaka_dev)  
