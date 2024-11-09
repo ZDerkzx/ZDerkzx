@@ -3,7 +3,7 @@
 Skills: Nim / Lua / HTML / CSS
 
 - 🔭 I’m currently working on ZombieGame 
-- 🌱 I’m currently learning GDScript
+- 🌱 I’m currently learning GDScript and Python
 - 📫 How to contact me: itzderkz(in discord)
 - 😄 Pronouns: he/him
 - 🙂 I like to learn new technologies
