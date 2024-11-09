@@ -1,11 +1,10 @@
-## Hi there 👋, meet Amos
-I am a Javascript developer who is really passionate of its technologies
+## Hello everyone
 
 Skills: Nim / Lua / HTML / CSS
 
 - 🔭 I’m currently working on ZombieGame
 - 🌱 I’m currently learning GDScript
-- 📫 How to reach me: itzderkz(in discord)
+- 📫 How to contact me: itzderkz(in discord)
 - 😄 Pronouns: he/him 
 
 
