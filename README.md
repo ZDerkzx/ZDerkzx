@@ -9,6 +9,8 @@ Skills: Python / Nim / Lua / HTML / CSS
 - 🙂 I like to learn new technologies
 - 🎶 I Love Phonk
 - 💻 I am in a team called "KorxTeam"
+- 💯 I would like to learn Crystal in the future
+  
 
 
 ------
