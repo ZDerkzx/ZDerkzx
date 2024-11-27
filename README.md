@@ -17,8 +17,9 @@ Skills: Python / Nim / Lua / HTML / CSS
 
 ## Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
+## Lenguajes más utilizados
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact)
 
 
 ------
