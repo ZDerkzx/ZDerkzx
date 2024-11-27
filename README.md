@@ -10,7 +10,15 @@ Skills: Python / Nim / Lua / HTML / CSS
 - 🎶 I Love Phonk
 - 💻 I am in a team called "KorxTeam"
 - 💯 I would like to learn Crystal in the future
-  
+
+  ## Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&count_private=true)
+
+## Lenguajes más utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
+
 
 
 ------
