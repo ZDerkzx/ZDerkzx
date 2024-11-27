@@ -13,7 +13,7 @@ Skills: Python / Nim / Lua / HTML / CSS
 
   ## Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzxo&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true)
 
 ## Lenguajes más utilizados
 
