@@ -1,6 +1,6 @@
 ## Hello everyone
 
-Skills: Python / Nim / Lua / HTML / CSS
+Skills: Python / Ruby / Nim / Lua / HTML / CSS
 
 - 🔭 I’m currently working on ZombieGame and my portfolio
 - 🌱 I’m currently learning GDScript and Ruby
