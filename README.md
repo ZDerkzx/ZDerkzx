@@ -1,5 +1,3 @@
-![Header Image](https://example.com/header.png)
-
 # Hello Everyone 👋
 
 ## Skills
@@ -18,7 +16,7 @@
 ## GitHub Statistics 📊
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact) |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ZDerkzx&theme=dracula)
 
