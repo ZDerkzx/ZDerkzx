@@ -1,6 +1,7 @@
 # Hello Everyone 👋
 
 ![Programmer Typing](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Another Gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -20,9 +21,12 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact) |
 | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ZDerkzx&theme=dracula)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ZDerkzx&theme=darkhub)
 
 ---
+
+Feel free to add more sections or customize as per your preference.
