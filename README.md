@@ -1,5 +1,7 @@
 # Hello Everyone 👋
 
+![Programmer Typing](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ## Skills
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?style=flat&logo=nim&logoColor=white)
