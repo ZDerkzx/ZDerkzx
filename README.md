@@ -8,12 +8,12 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 - 🔭 I’m currently working on **ZombieGame** and my portfolio.
-- 🌱 I’m currently learning **Go**.
+- 🌱 I’m currently learning **![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)**.
 - 📫 How to contact me: **itzderkz** (on Discord).
 - 🙂 I like to learn new technologies.
 - 🎶 I love **Phonk** music.
 - 💻 I am in a team called **"KorxTeam"**.
-- 💯 I would like to learn **Crystal** and **Rust** 🦀 in the future.
+- 💯 I would like to learn **Crystal** and **![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)** 🦀 in the future.
 
 ## GitHub Statistics 📊
 
@@ -27,6 +27,3 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ZDerkzx&theme=darkhub)
 
 ---
-
-Feel free to add more sections or customize as per your preference.
-
