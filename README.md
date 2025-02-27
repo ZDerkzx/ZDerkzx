@@ -8,11 +8,11 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?style=flat&logo=nim&logoColor=white)
 
-- 🔭 I’m currently working on **SlaxPanel**
+- 🔭 I’m currently working on **SlaxPanel** and **SlaxHost**
 - 🌱 I’m currently learning **![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)**.
 - 📫 How to contact me: **itzderkz** (on Discord).
 - 🙂 I like to learn new technologies.
-- 🎶 I love **Phonk** music.
+- 🎶 I love **Phonk** music and **Funk**.
 - 💻 I am in a team called **"KorxTeam"**.
 - 💯 I would like to learn **Crystal** and **![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)** 🦀 in the future.
 
