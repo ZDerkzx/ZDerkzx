@@ -8,7 +8,7 @@
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?style=flat&logo=nim&logoColor=white)
 
-- 🔭 I’m currently working on **SlaxPanel** and **SlaxHost**
+- 🔭 I’m currently working on **SlaxPanel** and **SlaxHost** and **ReirusTunes**
 - 🌱 I’m currently learning **![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)**.
 - 📫 How to contact me: **itzderkz** (on Discord).
 - 🙂 I like to learn new technologies.
