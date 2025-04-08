@@ -1,6 +1,5 @@
 # Hello Everyone 👋
 
-
 ![Another Gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## Skills
@@ -38,10 +37,18 @@
   - }
 - }
 
+## Tools
+![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![XAMP-VHosts](https://img.shields.io/badge/-XAMP-VHosts-FB7A24?style=flat&logo=xampp&logoColor=white)
+![UniServer Zero](https://img.shields.io/badge/-UniServer%20Zero-0078D4?style=flat&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+
 ## GitHub Statistics 📊
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact) |
-| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
