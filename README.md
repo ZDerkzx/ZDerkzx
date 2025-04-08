@@ -41,7 +41,7 @@
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![XAMP-VHosts](https://img.shields.io/badge/-XAMP-VHosts-FB7A24?style=flat&logo=xampp&logoColor=white)
+![XAMP-VHosts](https://img.shields.io/badge/%20XAMP-VHost%20-blue)
 ![UniServer Zero](https://img.shields.io/badge/-UniServer%20Zero-0078D4?style=flat&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
