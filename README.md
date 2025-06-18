@@ -14,28 +14,6 @@
 - 🎶 I love **Phonk** music and **Funk**.
 - 💻 I am in a team called **"KorxTeam"**.
 - 💯 I would like to learn **Crystal** and **![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)** 🦀 in the future.
-- 💎¿have you done any projects? YESSER{
-- 1.SlaxPanel{
-  - **small - Normal proyect**
-  - description: "Panel de monitoreo de servidor"
-  - Code: **Public**
-  - }
-- 2.SlaxHost{
-  - **Normal - Big proyect**
-  - description: "Hosting experimental"
-  - Code: **Public and Private**
-  - }
-- 3.ReirusTunes{
-  - **Normal Proyect**
-  - description: "Zona web donde podras descargar videos,musica MP3/MP4"
-  - Code: **Private**
-  - }
-- 4.Zombie Timeline{
-  - **Normal - big proyect**
-  - description: "Juego de zombie maker, donde tu creas el reto"
-  - Code: **Public**
-  - }
-- }
 
 ## Tools
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white)
