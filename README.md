@@ -2,6 +2,26 @@
 
 ![Another Gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
+
+## Mi Main
+
+### ![Golang](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg)
+**Golang**
+
+- Framework: [Gin-gonic](https://gin-gonic.com/)
+
+---
+
+### ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg)
+**Node.js**
+
+- Framework: [Express.js](https://expressjs.com/)
+
+---
+
+### ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
+**React**
+
 # 🚀 SKILLS
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
