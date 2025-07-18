@@ -18,6 +18,7 @@
 
 ## Bases de datos
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 - 🔭 I’m currently working on **SlaxPanel**, **SlaxHost** and **ReirusTunes**
 - 🌱 I’m currently learning **Go**.
