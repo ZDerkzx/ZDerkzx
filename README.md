@@ -24,17 +24,14 @@
 
 # 🚀 OTRAS SKILLS
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?style=flat&logo=nim&logoColor=white)
 
 
+
 ### Frameworks de Golang
-![Gin-gonic](https://img.shields.io/badge/-Gin--gonic-00ADD8?style=flat&logo=go&logoColor=white)
 ![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat&logo=go&logoColor=white)
+
 
 
 ## Bases de datos
