@@ -12,15 +12,10 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80"/>
-**Node.js**
-
-- Framework: [Express.js](https://expressjs.com/)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80"/>
+**C#**
 
 ---
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80"/>
-
 
 # 🚀 OTRAS SKILLS
 
@@ -32,6 +27,8 @@
 ![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
 
+### Frameworks de C#
+![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## Base de datos
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -57,7 +54,7 @@
 ## GitHub Statistics 📊
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact) |
-| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
