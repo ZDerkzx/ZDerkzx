@@ -37,13 +37,13 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on **SlaxPanel**, **SlaxHost** and **ReirusTunes**
-- 🌱 I’m currently learning **Go**.
+- 🔭 I’m currently working on **DugonLTP**
+- 🌱 I’m currently learning **Node.js**.
 - 📫 How to contact me: **itzderkz** (on Discord).
 - 🙂 I like to learn new technologies.
 - 🎶 I love **Phonk** music and **Funk**.
-- 💻 I am in a team called **"KorxTeam"**.
-- 💯 I would like to learn **Crystal** and **Rust** 🦀 in the future.
+- 💻 I am in a startup called **"Onelty-Tech"**.
+- 💯 I would like to learn **Rust** in the future
 
 
 ## Tools
