@@ -15,6 +15,10 @@
 ![Gin-gonic](https://img.shields.io/badge/-Gin--gonic-00ADD8?style=flat&logo=go&logoColor=white)
 ![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat&logo=go&logoColor=white)
 
+
+## Bases de datos
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 - 🔭 I’m currently working on **SlaxPanel**, **SlaxHost** and **ReirusTunes**
 - 🌱 I’m currently learning **Go**.
 - 📫 How to contact me: **itzderkz** (on Discord).
@@ -23,8 +27,6 @@
 - 💻 I am in a team called **"KorxTeam"**.
 - 💯 I would like to learn **Crystal** and **Rust** 🦀 in the future.
 
-## Bases de datos
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Tools
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white)
