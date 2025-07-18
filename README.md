@@ -8,7 +8,7 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80"/>
 **Golang**
 
-- Framework: [Gin-gonic](https://gin-gonic.com/),stdl
+- Framework: [Gin-gonic](https://gin-gonic.com/), stdl
 
 ---
 
@@ -26,12 +26,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?style=flat&logo=nim&logoColor=white)
-
-
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ### Frameworks de Golang
 ![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat&logo=go&logoColor=white)
-
+![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
 
 
 ## Bases de datos
@@ -57,8 +56,8 @@
 
 ## GitHub Statistics 📊
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx) |
-| :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact) |
+| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
