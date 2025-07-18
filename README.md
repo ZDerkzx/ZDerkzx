@@ -33,7 +33,7 @@
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
 
 
-## Bases de datos
+## Base de datos
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
