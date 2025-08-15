@@ -23,12 +23,13 @@
 ![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
 
-### Frameworks de C#
-![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=dotnet&logoColor=white)
-
 ## Base de datos
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+# Message Brokers
+
+RabbitMQ
 
 - 🔭 I’m currently working on **DugonLTP**
 - 🌱 I’m currently learning **C#** and **.NET**
