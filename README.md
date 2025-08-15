@@ -29,7 +29,7 @@
 
 # Message Brokers
 
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) RabbitMQ
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 - 🔭 I’m currently working on **DugonLTP**
 - 🌱 I’m currently learning **C#** and **.NET**
