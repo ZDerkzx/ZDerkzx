@@ -50,10 +50,9 @@
 
 ## GitHub Statistics 📊
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&[...]
-| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------[...]
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact&theme=dark) |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?)
-
