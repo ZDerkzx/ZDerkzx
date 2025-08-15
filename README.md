@@ -29,7 +29,7 @@
 
 # Message Brokers
 
-RabbitMQ
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) RabbitMQ
 
 - 🔭 I’m currently working on **DugonLTP**
 - 🌱 I’m currently learning **C#** and **.NET**
@@ -50,11 +50,10 @@ RabbitMQ
 
 ## GitHub Statistics 📊
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact) |
-| :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&[...]
+| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------[...]
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZDerkzx&theme=darkhub)
-
----
+![Trophies](https://github-profile-trophy.vercel.app/?)
+
