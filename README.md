@@ -31,8 +31,8 @@
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-- 🔭 I’m currently working on **DugonLTP**
-- 🌱 I’m currently learning **C#** and **.NET**
+- 🔭 I’m currently working on **DugonSNAP**
+- 🌱 I’m currently learning **OCaml** and **C**.
 - 📫 How to contact me: **itzderkz** (on Discord).
 - 🙂 I like to learn new technologies.
 - 🎶 I love **Phonk** music and **Funk**.
