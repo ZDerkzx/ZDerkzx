@@ -33,7 +33,7 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 
 ## GitHub Statistics 📊
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
@@ -41,5 +41,3 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ZDerkzx&theme=dark)
 
 ---
-
-Si quieres que ajuste el tema (dark/light) o el diseño (tamaños/orden) de las tarjetas de estadísticas, dímelo y lo actualizo.
