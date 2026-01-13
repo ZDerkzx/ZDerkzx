@@ -3,7 +3,7 @@
 ![Another Gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 
-## Mi Main🚀
+## Mi Main 🚀
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80"/>
 **Golang**
