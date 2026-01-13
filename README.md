@@ -35,13 +35,9 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ZDerkzx)
 
-https://pixel-profile.vercel.app/api/github-stats?username=ZDerkzx&theme=crt
-
-
-
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=ZDerkzx)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZDerkzx&theme=dark)
 
 ---
