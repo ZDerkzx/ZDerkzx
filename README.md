@@ -3,36 +3,18 @@
 ![Another Gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 ---
 
-
-# 🚀 OTRAS SKILLS
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Nim](https://img.shields.io/badge/-Nim-FFE953?style=flat&logo=nim&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-
-### Frameworks de Golang
-![Viper](https://img.shields.io/badge/-Viper-00ADD8?style=flat&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
-
-## Base de datos
-
-
-# Message Brokers
-
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
 ## Lo que sé
 Una sección rápida sobre las tecnologías y áreas en las que tengo experiencia:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80"/>
-- RabbitMQ
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- Redes (TCP, UDP, WebSockets)
-- Python
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  ![Backend](https://img.shields.io/badge/-Backend-00C853?style=flat-square)
+- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  ![Mensajería](https://img.shields.io/badge/-Mensajería-FF6A00?style=flat-square)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![Base de datos](https://img.shields.io/badge/-Base%20de%20datos-47A248?style=flat-square)
+- ![Redes](https://img.shields.io/badge/Redes-TCP%2C%20UDP%2C%20WebSockets-blue?style=flat)  ![Networking](https://img.shields.io/badge/-Networking-0078D4?style=flat-square)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Scripting](https://img.shields.io/badge/-Scripting-3776AB?style=flat-square)
 
 ## Aprendiendo
-- OCaml
-- C
+- ![OCaml](https://img.shields.io/badge/OCaml-3C873A?style=flat&logo=ocaml&logoColor=white)  ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-FFD54F?style=flat-square)
+- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-FFD54F?style=flat-square)
 
 - 🔭 I’m currently working on **DugonSNAP**
 - 🌱 I’m currently learning **OCaml** and **C**.
@@ -59,5 +41,3 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?)
-
-```
