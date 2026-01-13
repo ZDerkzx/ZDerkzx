@@ -22,8 +22,6 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 - 🙂 I like to learn new technologies.
 - 🎶 I love **Phonk** music and **Funk**.
 - 💻 I am in a startup called **"Onelty-Tech"**.
-- 💯 I would like to learn **Rust** in the future
-
 
 ## Tools
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white)
@@ -35,9 +33,13 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 
 ## GitHub Statistics 📊
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?userna[...]
-| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------[...]
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact&theme=dark) |
+| :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
-![Trophies](https://github-profile-trophy.vercel.app/?)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ZDerkzx&theme=dark)
+
+---
+
+Si quieres que ajuste el tema (dark/light) o el diseño (tamaños/orden) de las tarjetas de estadísticas, dímelo y lo actualizo.
