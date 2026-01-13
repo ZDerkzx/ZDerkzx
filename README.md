@@ -1,15 +1,6 @@
 # Hello Everyone 👋
 
 ![Another Gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
-
-## Mi Main 🚀
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80"/>
-**Golang**
-
-- Framework: [Gin-gonic](https://gin-gonic.com/), stdl
-
 ---
 
 
@@ -24,12 +15,24 @@
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat&logo=fiber&logoColor=white)
 
 ## Base de datos
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 # Message Brokers
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+## Lo que sé
+Una sección rápida sobre las tecnologías y áreas en las que tengo experiencia:
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80"/>
+- RabbitMQ
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- Redes (TCP, UDP, WebSockets)
+- Python
+
+## Aprendiendo
+- OCaml
+- C
 
 - 🔭 I’m currently working on **DugonSNAP**
 - 🌱 I’m currently learning **OCaml** and **C**.
@@ -50,9 +53,11 @@
 
 ## GitHub Statistics 📊
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZDerkzx&layout=compact&theme=dark) |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZDerkzx&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?userna[...]
+| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------[...]
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ZDerkzx&theme=dark)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?)
+
+```
