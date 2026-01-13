@@ -33,7 +33,7 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 
 ## GitHub Statistics 📊
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ZDerkzx)
 
 https://pixel-profile.vercel.app/api/github-stats?username=ZDerkzx&theme=crt
 
