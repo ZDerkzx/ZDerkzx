@@ -33,7 +33,7 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 
 ## GitHub Statistics 📊
 
-https://pixel-profile.vercel.app/api/github-stats?username=<ZDerkzx>&theme=crt
+https://pixel-profile.vercel.app/api/github-stats?username=ZDerkzx&theme=crt
 
 
 
