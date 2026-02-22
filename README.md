@@ -16,12 +16,12 @@ Una sección rápida sobre las tecnologías y áreas en las que tengo experienci
 - ![OCaml](https://img.shields.io/badge/OCaml-3C873A?style=flat&logo=ocaml&logoColor=white)  ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-FFD54F?style=flat-square)
 - ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-FFD54F?style=flat-square)
 
-- 🔭 I’m currently working on **DugonSNAP**
+- 🔭 I’m currently working on **DugonSNAP** https://onelty-tech.pw/dugonsnap
 - 🌱 I’m currently learning **OCaml** and **C**.
 - 📫 How to contact me: **itzderkz** (on Discord).
 - 🙂 I like to learn new technologies.
 - 🎶 I love **Phonk** music and **Funk**.
-- 💻 I am in a startup called **"Onelty-Tech"**.
+- 💻 I am in a startup called **"Onelty-Tech"** https://onelty-tech.pw/
 
 ## Tools
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?style=flat&logo=github&logoColor=white)
